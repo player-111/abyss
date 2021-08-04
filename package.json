@@ -1,0 +1,22 @@
+{
+  "name": "player-locker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mineflayer": "^3.9.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hecker-men/Player-Locker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hecker-men/Player-Locker/issues"
+  },
+  "homepage": "https://github.com/hecker-men/Player-Locker#readme",
+  "description": ""
+}
